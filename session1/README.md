@@ -16,3 +16,4 @@ cuz most of the topics are theoretical you'r tasks are gonna be reading some art
 - [Hoisting](https://dev.to/lydiahallie/javascript-visualized-hoisting-478h)
 
 ## Check our work here
+- [How js works behind the scene-part1](https://github.com/IEEE-MSB-CS/IEEE-work/blob/master/session1/How%20js%20works%20behind%20the%20scene-part1.pdf)

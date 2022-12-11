@@ -9,6 +9,9 @@ At the end of this session you'll learn **Some important concepts**
 
 
 ## TASKS 
-- 
-- 
-- 
+- Play with my code ,Study the Session well
+- Search for “this in event handler” and you will demonstrate the concept to me
+
+## Check our work here
+- [Js behind the scene-part2](https://github.com/IEEE-MSB-CS/IEEE-work/blob/master/session2/Js%20behind%20the%20scene-part2.pdf)
+- [Code](https://github.com/IEEE-MSB-CS/IEEE-work/blob/master/session2/main.js)

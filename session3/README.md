@@ -9,3 +9,8 @@ At the end of this session you'll learn **Advanced topics about functions**
 - Closure
 
 ## TASKS 
+- Solve as possible as you can : http://csbin.io/closures ,you’ve to solve at least 10 problems
+
+## Check our work here
+- [Advanced concepts with functions](https://github.com/IEEE-MSB-CS/IEEE-work/blob/master/session3/call-apply-bind-closure.pdf)
+- [Code](https://github.com/IEEE-MSB-CS/IEEE-work/blob/master/session3/main.js)
