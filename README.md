@@ -1,15 +1,15 @@
 # JavaScribt Advanced topics
 ###### Here are the sessions that cover most of the topics :
-- [ ] [session1]()
+- [x] [session1](https://github.com/IEEE-MSB-CS/IEEE-work/tree/master/session1)
 
-- [ ] [session2]()
+- [x] [session2](https://github.com/IEEE-MSB-CS/IEEE-work/tree/master/session2)
 
-- [ ] [session3]()
+- [x] [session3](https://github.com/IEEE-MSB-CS/IEEE-work/tree/master/session3)
 
-- [ ] [session4]()
+- [ ] [session4](https://github.com/IEEE-MSB-CS/IEEE-work/tree/master/session4)
 
-- [ ] [session5]()
+- [ ] [session5](https://github.com/IEEE-MSB-CS/IEEE-work/tree/master/session5)
 
-- [ ] [session6]()
+- [ ] [session6](https://github.com/IEEE-MSB-CS/IEEE-work/tree/master/session6)
 
-- [ ] [session7]()
+- [ ] [session7](https://github.com/IEEE-MSB-CS/IEEE-work/tree/master/session7)
