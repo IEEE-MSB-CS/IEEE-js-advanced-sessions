@@ -14,3 +14,5 @@ cuz most of the topics are theoretical you'r tasks are gonna be reading some art
 - [JavaScribt Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 - [Scope Chain](https://dev.to/lydiahallie/javascript-visualized-scope-chain-13pd)
 - [Hoisting](https://dev.to/lydiahallie/javascript-visualized-hoisting-478h)
+
+## Check our work here
