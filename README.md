@@ -13,3 +13,5 @@
 - [ ] [session6](https://github.com/IEEE-MSB-CS/IEEE-work/tree/master/session6)
 
 - [ ] [session7](https://github.com/IEEE-MSB-CS/IEEE-work/tree/master/session7)
+
+## Resources
