@@ -46,5 +46,5 @@ GOOD LUCK
 DATA CAR 1: 'Rivian' going at 120 km/h, with a charge of 23%
 
 ## Check our work here
-- [OOP](https://github.com/IEEE-MSB-CS/IEEE-work/blob/master/session3/call-apply-bind-closure.pdf)
-- [Code](https://github.com/IEEE-MSB-CS/IEEE-work/blob/master/session3/main.js)
+- [OOP](https://github.com/IEEE-MSB-CS/IEEE-js-advanced-sessions/blob/master/session5/Engineering%20Fundamentals.pdf)
+- [Code](https://github.com/IEEE-MSB-CS/IEEE-js-advanced-sessions/blob/master/session5/main.js)
