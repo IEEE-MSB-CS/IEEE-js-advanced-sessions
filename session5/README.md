@@ -1,4 +1,4 @@
-# Session 6
+# Session 5
 At the end of this session you'll learn **OOP in Js .Part2**
 ## OUTCOMES
 **Upon the compilation of this session you'll be able to :**
@@ -44,3 +44,7 @@ GOOD LUCK
 3. Implement the ability to chain the 'accelerate' and 'chargeBattery' methods of this class, and also update the 'brake' method in the 'CarCl' class. They experiment with chining!
 
 DATA CAR 1: 'Rivian' going at 120 km/h, with a charge of 23%
+
+## Check our work here
+- [OOP](https://github.com/IEEE-MSB-CS/IEEE-work/blob/master/session3/call-apply-bind-closure.pdf)
+- [Code](https://github.com/IEEE-MSB-CS/IEEE-work/blob/master/session3/main.js)
