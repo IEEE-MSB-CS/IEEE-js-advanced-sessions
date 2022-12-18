@@ -1,4 +1,4 @@
-# Session 5
+# Session 4
 At the end of this session you'll learn **OOP in Js**
 ## OUTCOMES
 **Upon the compilation of this session you'll be able to :**
